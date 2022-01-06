@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 context changed. 2022/01/05/15:17
 context changed. 2022/01/05/17:26
 Creating a new brach is quick.
+To test branch management.
